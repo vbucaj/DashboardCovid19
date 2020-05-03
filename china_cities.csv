@@ -1,0 +1,91 @@
+,city,lat,lon,city_name
+0,"Zhangjiajie, Hunan, China",29.117001,110.478996,Hunan
+1,"Xingyi, Guizhou Province, China",25.091999,104.894997,Guizhou Province
+2,"Foshan, Gundong Province, China",23.016666,113.116669,Gundong Province
+3,"Anshan, Liaoning, China",41.116669,122.98333,Liaoning
+4,"Datong, Shanxi, China",40.083332,113.300003,Shanxi
+5,"Luoyang, Henan, China",34.669724,112.442223,Henan
+6,"Baotou, Inner Mongolia, China",40.650002,109.833336,Inner Mongolia
+7,"Nanchang, Jiangxi, China",28.683332,115.883331,Jiangxi
+8,"Guiyang, Guizhou, China",26.646999,106.629997,Guizhou
+9,"Zibo, Shandong, China",36.783333,118.050003,Shandong
+10,"Tangshan, Hebei, China",39.631001,118.18,Hebei
+11,"Changzhou, Jiangsu, China",31.811001,119.973999,Jiangsu
+12,"Kunming, Yunnan, China",25.043333,102.706108,Yunnan
+13,"Nanning, Guangxi, China",22.816668,108.316666,Guangxi
+14,"Fuzhou, Fujian, China",26.0753,119.308197,Fujian
+15,"Changsha, Hunan, China",28.228001,112.939003,Hunan
+16,"Jinan, Shandong, China",36.666668,116.98333,Shandong
+17,"Harbin, Heilongjiang, China",45.75,126.633331,Heilongjiang
+18,"Suzhou, Jiangsu, China",31.299999,120.599998,Jiangsu
+19,"Dalian, Liaoning, China",38.920834,121.639168,Liaoning
+20,"Qingdao, Shandong, China",36.066898,120.382698,Shandong
+21,"Shenyang, Liaoning, China",41.799999,123.400002,Liaoning
+22,"Hangzhou, Zhejiang, China",30.25,120.166664,Zhejiang
+23,"Nanjing, Jiangsu, China",32.049999,118.76667,Jiangsu
+24,"Chengdu, Sichuan, China",30.657,104.066002,Sichuan
+25,"Wuhan, the city where the coronavirus outbreak began",30.583332,114.283333,the city where the coronavirus outbreak began
+26,"Tianjin, People's Republic of China",39.133331,117.183334,People's Republic of China
+27,"Beijing, People's Republic of China",39.916668,116.383331,People's Republic of China
+28,"Shanghai, China",31.224361,121.46917,China
+29,"Xuzhou, Jiangsu, China",34.205769,117.284126,Jiangsu
+30,"Zhengzhou, Henan, China",34.746613,113.625328,Henan
+31,"Dabu, Meizhou, Guangdong, China",24.347782,116.695198,Meizhou
+32,"Taiyuan, Shanxi, China",37.87146,112.551208,Shanxi
+33,"Tieling, Liaoning, China",42.223827,123.726036,Liaoning
+34,"Shijiazhuang, Hebei, China",38.042805,114.514893,Hebei
+35,"Fuqing, Fuzhou, Fujian, China",25.721292,119.384155,Fuzhou
+36,"Yichun, Jiangxi, China",27.819311,114.41069,Jiangxi
+37,"Shihezi, Xinjiang, China",44.306095,86.080605,Xinjiang
+38,"Jiamusi, Heilongjiang, China",46.801086,130.32312,Heilongjiang
+39,"Nagqu, Tibet, China",31.476202,92.051239,Tibet
+40,"Wuhu, Anhui, China",31.350012,118.429398,Anhui
+41,"Lanzhou, Gansu, China",36.054871,103.828812,Gansu
+42,"Qiqihar, Heilongjiang, China",47.354347,123.918182,Heilongjiang
+43,"Suqian, Jiangsu, China",33.965126,118.270988,Jiangsu
+44,"Changchun, Jilin, China",43.891262,125.331345,Jilin
+45,"Hohhot, Inner Mongolia, China",40.846333,111.733017,Inner Mongolia
+46,"Linfen, Shanxi, China",36.088005,111.518974,Shanxi
+47,"Wuhai, Inner Mongolia, China",39.863373,106.814575,Inner Mongolia
+48,"Dalangzhen, Dongguan, Guangdong, China",22.940195,113.943916,Dongguan
+49,"Yancheng, Jiangsu, China",33.347317,120.163658,Jiangsu
+50,"Shenzhen, Guangdong, China",22.542883,114.062996,Guangdong
+51,"Nanyang, Henan, China",32.990833,112.52832,Henan
+52,"Zhongshan, Guangdong, China",22.516998,113.392723,Guangdong
+53,"Nyingchi, Tibet, China",29.651808,94.35659,Tibet
+54,"Kizilsu, Xinjiang, China",39.719204,76.168732,Xinjiang
+55,"Guyuan, Ningxia, China",36.015854,106.242607,Ningxia
+56,"Xianyang, Shaanxi, China",34.329605,108.708992,Shaanxi
+57,"Wuzhai, Xinzhou, Shanxi, China",38.910725,111.846909,Xinzhou
+58,"Xilin Gol, Inner Mongolia, China",43.935299,116.051414,Inner Mongolia
+59,"Fangxian, Shiyan, Hubei, China",32.055542,110.741096,Shiyan
+60,"Xigaze, Tibet, China",29.26687,88.880585,Tibet
+61,"Dunhuang, Jiuquan, Gansu, China",40.142132,94.66188,Jiuquan
+62,"Suihua, Heilongjiang, China",46.675827,127.018433,Heilongjiang
+63,"Karakax, Hotan, Xinjiang, China",37.298569,79.736816,Hotan
+64,"Haidong, Qinghai, China",36.502041,102.104286,Qinghai
+65,"Qamdo, Tibet, China",31.140968,97.17202,Tibet
+66,"Ordos, Inner Mongolia, China",39.671257,109.860535,Inner Mongolia
+67,"Alxa, Inner Mongolia, China",38.851891,105.728966,Inner Mongolia
+68,"Kashgar, Xinjiang, China",39.470402,75.989754,Xinjiang
+69,"Wenzhou, Zhejiang, China",27.994267,120.699364,Zhejiang
+70,"Chongqing, Chongqing, China",29.563009,106.551559,Chongqing
+71,"Damxung, Lhasa, Tibet, China",30.47312,91.101166,Lhasa
+72,"Shilixiang, Zamtang, Aba, Sichuan, China",31.893671,101.112892,Zamtang
+73,"Yopurga, Kashgar, Xinjiang, China",39.229595,76.767654,Kashgar
+74,"Linchuan, Fuzhou, Jiangxi, China",27.934572,116.312164,Fuzhou
+75,"Urumqi, Xinjiang, China",43.825592,87.616852,Xinjiang
+76,"Kumul, Xinjiang, China",42.821594,93.497772,Xinjiang
+77,"Wuleidao Bay, China",36.959438,121.999168,China
+78,"Weihui, Xinxiang, Henan, China",35.398495,114.064903,Xinxiang
+79,"Nagqu, Tibet, China",31.476202,92.051239,Tibet
+80,"Ningbo, Zhejiang, China",29.868336,121.543991,Zhejiang
+81,"Ngari, Xizang (Tibet), China",32.513237,80.097885,Xizang (Tibet)
+82,"Yuncheng, Shanxi, China",35.026413,111.00753,Shanxi
+83,"Baicheng, Jilin, China",45.622681,122.848434,Jilin
+84,"Kashgar, Xinjiang, China",39.471184,75.995865,Xinjiang
+85,"Shigatse, Xizang (Tibet), China",29.26687,88.880585,Xizang (Tibet)
+86,"Huludao, Liaoning, China",40.711052,120.836929,Liaoning
+87,"Danzhai, Qiandongnan, Guizhou, China",26.198374,107.788742,Qiandongnan
+88,"Shangzhou, Shangluo, Shaanxi, China",33.868134,109.947739,Shangluo
+89,"Xi'an, Shaanxi, China",34.341568,108.940178,Shaanxi
