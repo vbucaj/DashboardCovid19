@@ -15,6 +15,12 @@ import plotly.graph_objects as go
 
 from covanalysis import Covid
 
+import sys
+import warnings
+
+if not sys.warnoptions:  # allow overriding with `-W` option
+    warnings.filterwarnings('ignore', category=RuntimeWarning, module='runpy')
+
 
 # # nltk_path=os.path.abspath('./nltk_data')
 # # #print('My Path: ', path)
@@ -849,7 +855,7 @@ def update_graph(hoverData,selected_type):
 
 
 
-
-if __name__ == '__main__':
-
+if __name__ == "__main__":
+    import warnings
+    warnings.warn("use 'nltk', not 'python -m nltk.downloader'", DeprecationWarning)
     app.run_server(debug=True)
