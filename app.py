@@ -8,6 +8,7 @@ import pandas as pd
 import numpy as np
 
 import nltk
+# RUN python -m nltk.downloader popular
 nltk.download('popular')
 import os
 
@@ -40,6 +41,7 @@ theme =  {
 
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
+server=app.server
 
 markdown_text='''
 #### Project Description
@@ -507,7 +509,7 @@ def update_graph(selected_type):
         y=pd.read_csv('covid_tree_y.csv')
         #y=np.array(y)
 
-        rf_model = RandomForestClassifier(n_estimators=100, max_features=6)
+        rf_model = RandomForestClassifier(n_estimators=150, max_features=6)
         rf_model.fit(X,y)
         #rf_model=joblib.load('rf_model.pkl')
 
