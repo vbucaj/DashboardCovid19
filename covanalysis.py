@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import nltk
+nltk.download('popular')
 import re
 
 import math

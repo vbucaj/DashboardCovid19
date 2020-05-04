@@ -8,6 +8,7 @@ import pandas as pd
 import numpy as np
 
 import nltk
+nltk.download('popular')
 import os
 
 import plotly.express as px
@@ -15,11 +16,11 @@ import plotly.graph_objects as go
 
 from covanalysis import Covid
 
-import sys
-import warnings
-
-if not sys.warnoptions:  # allow overriding with `-W` option
-    warnings.filterwarnings('ignore', category=RuntimeWarning, module='runpy')
+# import sys
+# import warnings
+#
+# if not sys.warnoptions:  # allow overriding with `-W` option
+#     warnings.filterwarnings('ignore', category=RuntimeWarning, module='runpy')
 
 
 # # nltk_path=os.path.abspath('./nltk_data')
@@ -856,6 +857,6 @@ def update_graph(hoverData,selected_type):
 
 
 if __name__ == "__main__":
-    import warnings
-    warnings.warn("use 'nltk', not 'python -m nltk.downloader'", DeprecationWarning)
+    # import warnings
+    # warnings.warn("use 'nltk', not 'python -m nltk.downloader'", DeprecationWarning)
     app.run_server(debug=True)
